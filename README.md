@@ -19,8 +19,8 @@
 ![Metrics](https://github.com/blono/blono/blob/main/github-metrics.svg)
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blono&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=blono&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blono&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark&include_all_commits=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=blono&count_private=true&show_icons=true&show_icons=true&theme=onedark&include_all_commits=true" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=blono&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
