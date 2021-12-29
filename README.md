@@ -30,11 +30,12 @@
 
 #### Development Environment
 
-- Favorite Languages: C++/Go
-- Editor: xyzzy/Visual Studio/Visual Studio Code
+- Favorite Languages: C++/Go/Flutter/Rust
+- Editor: xyzzy/Visual Studio/Visual Studio Code/CotEditor
 - Shell: fish
 - Terminal: iterm2
 - OS: Windows 10 Pro/Mac OS
+- Personal MSDN Professional subscriber
 - PC: MacBook Pro 2021 16 inch/Windows 10 自作
 - Keyboard: TOPRE REALFORCE
 - Mouse: Death Adder 2013
