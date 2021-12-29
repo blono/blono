@@ -10,9 +10,9 @@
 </p>
 
 <p align="left"> 
-  <a href="https://n.yano.legal">Blogger</a><br>
-  <a href="https://qiita.com/manymanyuni">Qiita</a><br>
-  <a href="https://yano.hatenadiary.jp/">はてなブログ</a>
+  <a href="https://n.yano.legal" target="_blank">Blogger</a><br>
+  <a href="https://qiita.com/manymanyuni" target="_blank">Qiita</a><br>
+  <a href="https://yano.hatenadiary.jp/" target="_blank">はてなブログ</a>
 </p>
 
 <p align="left"> 
