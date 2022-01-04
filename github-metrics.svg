@@ -3046,7 +3046,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apache/logging-log4j2</span>
-                                        <span>starred 23 days ago</span>
+                                        <span>starred 24 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -5030,7 +5030,7 @@
                 </section>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 4 Jan 2022, 13:30:33 (timezone Asia/Tokyo) with lowlighter/metrics@3.16.0</span>
+                    <span>Last updated 4 Jan 2022, 14:21:44 (timezone Asia/Tokyo) with lowlighter/metrics@3.16.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
