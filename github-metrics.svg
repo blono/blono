@@ -1808,7 +1808,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apache/logging-log4j2</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Apache Log4j 2 is an upgrade to Log4j that provides significant improvements over its predecessor, Log4j 1.x, and provides many of the improvements available in Logback while fixing some inherent problems in Logback's architecture.</div>
@@ -4053,7 +4053,7 @@
                 </section>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 8 Jan 2022, 13:30:20 (timezone Asia/Tokyo) with lowlighter/metrics@3.17.0</span>
+                    <span>Last updated 8 Jan 2022, 14:21:47 (timezone Asia/Tokyo) with lowlighter/metrics@3.17.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
