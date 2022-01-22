@@ -1645,7 +1645,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>evultrole/aarch64-apple-gimp</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Changes required to get GIMP compiling on M1 macs with big sur. Probably fixed big sur issues in general</div>
@@ -4050,7 +4050,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jan 2022, 23:18:27 (timezone Asia/Tokyo) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 23 Jan 2022, 00:21:06 (timezone Asia/Tokyo) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
