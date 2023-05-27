@@ -10,7 +10,7 @@
 </p>
 
 <p align="left"> 
-  <a href="https://n.yano.legal" target="_blank">Blogger</a><br>
+  <a href="https://lawliet-dev.blogspot.com" target="_blank">Blogger</a><br>
   <a href="https://qiita.com/manymanyuni" target="_blank">Qiita</a><br>
   <a href="https://yano.hatenadiary.jp/" target="_blank">はてなブログ</a>
 </p>
