@@ -30,7 +30,7 @@
 
 #### Development Environment
 
-- Favorite Languages: C++/Go/Flutter/Rust
+- Favorite Languages: C++/Rust/Go
 - Editor: xyzzy/Visual Studio/Visual Studio Code/CotEditor
 - Shell: fish
 - Terminal: iterm2
