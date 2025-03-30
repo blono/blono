@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4244" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4211" class="">
     <defs>
         <style/>
     </defs>
@@ -2218,7 +2218,7 @@
                                         <span>starred Dec 08 2023</span>
                                     </div>
                                 </div>
-                                <div class="field description">Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)</div>
+                                <div class="field description">Performance instrumentation and tracing for Android, Linux and Chrome</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3548,7 +3548,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Mar 2025, 02:20:09 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Mar 2025, 03:30:17 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
