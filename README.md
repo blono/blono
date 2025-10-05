@@ -33,6 +33,4 @@
 - PC: MacBook Pro 2021 16 inch/Windows 11 Pro Ryzen 7 9700X
 - Keyboard: TOPRE REALFORCE
 - Mouse: Logicool G PRO X SUPERLIGHT 2
-- Smartphone: iPhone 12 Pro
-
-
+- Smartphone: iPhone Air
