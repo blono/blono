@@ -17,8 +17,10 @@
 - Favorite Languages: C++/Rust/Go
 - Area of Expertise: Native Windows applications using Win32 and C/C++/Rust/Go, Web applications, Cloud services (Google Cloud, AWS, Azure), Docker, Java, TypeScript, React, RDB, NoSQL, etc.
 - Editor: Zed/Visual Studio Code/xyzzy/Visual Studio/Sublime Text
+- VCS: Jujutsu(jj)/Git
 - Key Bindings: Emacs（のどか、Karabiner-Elements）
-- AI: ChatGPT Plus, Perplexity Pro, GitHub Copilot, Gemini(Google AI Plus)
+- AI: Perplexity Pro, Claude Pro, ChatGPT Free, Gemini Free, GitHub Copilot Free
+  - I subscribe to whichever of ChatGPT, Claude, or Gemini seems the most useful at the time.
 - Browser: Comet
 - Shell: fish
 - Terminal: iterm2
