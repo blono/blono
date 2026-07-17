@@ -8,7 +8,7 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">blono's GitHub Stats, Rank: C</title>
+        <title id="titleId">blono's GitHub Stats, Rank: C+</title>
         <desc id="descId">Total Stars Earned: 3, Total Commits  : 266, Total PRs: 11, Total PRs Merged: 7, Merged PRs Percentage: 63.64, Total PRs Reviewed: 0, Total Issues: 11, Total Discussions Started: 11, Total Discussions Answered: 0, Contributed to (last year): 1</desc>
         <style>
           .header {
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 220.30713352346655;
+        stroke-dashoffset: 219.15636698369005;
       }
     }
   
@@ -143,7 +143,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          C
+          C+
         </text>
       
         </g>
